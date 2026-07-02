@@ -1,0 +1,5 @@
+# --- Dossiers spécifiques au script ---
+# Ignore le profil de navigation persistant (contient les cookies, caches, sessions)
+user_data/
+# Ignore les pages HTML téléchargées par le script
+HTML/
