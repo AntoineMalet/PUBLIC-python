@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 scanpy
+mycert.pem
+mykey.key
